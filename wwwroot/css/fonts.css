@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Zen Kaku";
+    src: url("../fonts/ZenKakuGothicNew-Black.woff");
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "Zen Kaku";
+    src: url("../fonts/ZenKakuGothicNew-Bold.woff");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Zen Kaku";
+    src: url("../fonts/ZenKakuGothicNew-Medium.woff");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Zen Kaku";
+    src: url("../fonts/ZenKakuGothicNew-Regular.woff");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Zen Kaku";
+    src: url("../fonts/ZenKakuGothicNew-Light.woff");
+    font-weight: 300;
+}
